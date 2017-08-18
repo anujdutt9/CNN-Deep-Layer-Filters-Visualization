@@ -11,6 +11,13 @@
 3. **Python 3.5 64-bit**
 
 
+# Usage:
+
+```
+python3 main.py
+```
+
+
 # Results:
 
 1. *Input Image*
